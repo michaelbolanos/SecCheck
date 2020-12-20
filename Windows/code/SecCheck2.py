@@ -15,6 +15,9 @@
 # To create the app and exe use Pyinstaller with the following options:
 #
 #       OSX: pyinstaller --windowed --onefile --icon otgtree.icns SecCheck2.py
+#       Windows: pyinstaller --windowed --onefile SecCheck2.py
+#
+#       Removed below because if failures in Windows
 #       Windows: pyinstaller --windowed --onefile --icon otgtree.icns SecCheck2.py
 #       Linux:  TBD
 #
