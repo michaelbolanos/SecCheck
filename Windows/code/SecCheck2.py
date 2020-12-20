@@ -1,5 +1,8 @@
 # Author:  Michael Bolanos
 #
+# Date created:
+# Last Edited: 12-20-17 7:44AM
+#
 #
 # Import the PySimpleGUI for Gui, might change to Tkinter
 #
@@ -8,12 +11,17 @@
 # Import platform for System Information
 # Import wmi for checking Windows disk space
 #
+
+# To create the app and exe use Pyinstaller with the following options:
+#
+#       OSX: pyinstaller --windowed --onefile --icon otgtree.icns SecCheck2.py
+#       Windows: pyinstaller --windowed --onefile --icon otgtree.icns SecCheck2.py
+#       Linux:  TBD
 #
 import PySimpleGUI as sg, urllib.request, os, platform, sys
 from tkinter import *
 import webbrowser
-import wmi
-
+# import wmi
 
 # =============================================================================
 
@@ -58,12 +66,15 @@ remote_support_window['bg']='green'
 # =============================================================================
 # Function disk space
 #
-def otg_all_disks_for_windows():
-    conn = wmi.WMI()
-    for disk in conn.Win32_LogicalDisk():
-        if disk.size != None:
-            print(disk.Caption, "is {0:.2f}% free".format(100*float(disk.FreeSpace)/float(disk.Size)))
-            return str(disk.Caption, "is {0:.2f}% free".format(100*float(disk.FreeSpace)/float(disk.Size)))
+
+
+
+# def otg_all_disks_for_windows():
+#    conn = wmi.WMI()
+#    for disk in conn.Win32_LogicalDisk():
+#        if disk.size != None:
+#            print(disk.Caption, "is {0:.2f}% free".format(100*float(disk.FreeSpace)/float(disk.Size)))
+#            return str(disk.Caption, "is {0:.2f}% free".format(100*float(disk.FreeSpace)/float(disk.Size)))
 
 # call the function for disk space to output to console
 # otg_all_disks_for_windows()
@@ -116,10 +127,8 @@ while True:
     if event == sg.WIN_CLOSED or event == 'Close Connection':
         break
 
-root.mainloop()
+# root.mainloop()
 
 window.close()
-
-
 # =============================================================================
 # End of program
