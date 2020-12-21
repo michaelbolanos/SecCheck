@@ -15,6 +15,7 @@ There may be some security checks implemented in this program.
 Inherently, Windows 10 already detects the .EXE as malware so there is an implied security checker as a byproduct..
 
 - Detected as malware in Windows 10 Defender (false positive)
+- You must tell Windows to just run the program if Bitdefender is on keep an eye out for notifications
 
 
 Created:  12/11/20
