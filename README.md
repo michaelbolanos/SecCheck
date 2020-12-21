@@ -41,6 +41,9 @@ https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 If you want to see a fancy version of this project on
 [github.io.mb](https://michaelbolanos.github.io/SecCheck/)
 
+## Project level 
+
+Novice.
 
 ## About the author
 
