@@ -8,6 +8,12 @@
 ## General info
 SecCheck is a Python program to display a user's workstation statistics in a GUI.
 
+v.1.0-v.2.2
+
+There may be some security checks implemented.  Inherently, Windows 10 already detects the .EXE as malware so there is a security checker as a byproduct.
+
+-
+
 Created:  12/11/20
 
 
