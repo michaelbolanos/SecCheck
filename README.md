@@ -14,7 +14,8 @@ There may be some security checks implemented in this program.
 
 Inherently, Windows 10 already detects the .EXE as malware so there is a security checker as a byproduct.
 
--
+- Detected as malware in Windows 10 Defender (false positive)
+
 
 Created:  12/11/20
 
