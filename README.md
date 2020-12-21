@@ -70,6 +70,4 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 
 - Add some buttons with additional modules
 - More security checking
-
-
-
+- Why is Bitdefender complaining? (this could be useful)
