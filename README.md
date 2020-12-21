@@ -34,3 +34,7 @@ https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 
 Author:   Michael Bolanos
 
+Michael Bolanos is a freelance IT & Security Consultant
+
+The purpose is to gather some code and make progress in learning Python programming.
+
