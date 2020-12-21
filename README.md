@@ -18,7 +18,7 @@ Inherently, Windows 10 already detects the .EXE as malware so there is an implie
 - You must tell Windows to just run the program if Bitdefender is on keep an eye out for notifications
 
 
-Created:  12/11/20
+Project Created:  12/11/20
 
 
 ## Technologies
