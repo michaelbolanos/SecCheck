@@ -40,7 +40,7 @@ https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 
 ## Loop
 If you want to see a fancy version of this project on
-[github.io.mb](https://michaelbolanos.github.io/SecCheck/) although you might already be here
+[github.io.mb](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
 
 ## Project level 
 
