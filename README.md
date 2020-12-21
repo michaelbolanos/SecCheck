@@ -73,4 +73,4 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 - More security checking
 - Why is Bitdefender complaining? (this could be useful)
 - Better colors, people like a pretty GUI
-- 
+- Run Bitdefender scan e.g. MpCmdRun.exe -Scan -ScanType 2
