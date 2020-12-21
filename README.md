@@ -29,7 +29,7 @@ https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 [SecCheck_Apps](https://github.com/michaelbolanos/SecCheck/tree/main/Apps)
 
 ## Loop
-If you want to see this project on github.io
+If you want to see this project on fancy
 [github.io.mb](https://michaelbolanos.github.io/SecCheck/)
 
 
