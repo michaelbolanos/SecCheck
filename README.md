@@ -56,7 +56,7 @@ The purpose of this project is to gather some code and make progress in learning
 
 ## Background
 
-Many people learn best doing things hands on.  My meager programming skills have gotten me to this point.  I have always wanted to write cross platform apps, so this is my meager attempt while I study more Python it gives me a way to practice deploying my code to Github and collaborate with others.
+Many people learn best doing things hands on.  My meager programming skills have gotten me to this point.  I have always wanted to write cross platform apps, so this is my meager attempt while I study more Python.  It gives me a way to practice deploying my code to Github and collaborate with others.
 
 Mastering Python has eluded me due to (blah, blah blah,) no excuses, just practice now.  So I'm working on this:
 
