@@ -66,7 +66,7 @@ I am going through the materials and quizzes and making progress.  I try and pra
 
 I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I created an EXE for Windows and an app for Mac (need to output for Linux.)
 
-# To do or not to do
+## To do or not to do
 
 - Add some buttons with additional modules
 - More security checking
