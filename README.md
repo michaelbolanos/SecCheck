@@ -12,7 +12,7 @@ v.1.0-v.2.2
 
 There may be some security checks implemented in this program.
 
-Inherently, Windows 10 already detects the .EXE as malware so there is a security checker as a byproduct.
+Inherently, Windows 10 already detects the .EXE as malware so there is an implied security checker as a byproduct..
 
 - Detected as malware in Windows 10 Defender (false positive)
 
