@@ -3,7 +3,9 @@
 * [Technologies](#technologies)
 * [Wiki](#wiki)
 * [Just run the apps](#just-run-the-apps)
+* [Loop](#Loop)
 * [About the author](#about-the-author)
+* [To do or not to do](#to-do-or-not-to-do)
 
 ## General info
 SecCheck is a Python program to display a user's workstation statistics in a GUI.
