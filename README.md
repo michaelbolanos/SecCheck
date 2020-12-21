@@ -29,7 +29,7 @@ This program was written to practice Python with some practical application in m
 
 ## Wiki
 
-Wiki
+Wiki pages to content your heart
 [Wiki](https://github.com/michaelbolanos/SecCheck/wiki)
 
 
