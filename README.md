@@ -60,7 +60,7 @@ Many people learn best doing things hands on.  My meager programming skills have
 
 Mastering Python has eluded me due to (blah, blah blah,) no excuses, just practice now.  So I'm working on this:
 
-https://www.coursera.org/professional-certificates/google-it-automation
+[Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 
 I am going through the materials and quizzes and making progress.  I try and practice code at least 2-4 hours everyday now, that also involves watching YouTube, reading up on individual topics, trying stuff in my IDE (PyCharm), and Idle sometimes.  
 
