@@ -20,10 +20,3 @@ The Wiki is here:  https://github.com/michaelbolanos/SecCheck/wiki
 If you just want to run the Apps the programs by themselves are in the Apps directory
 
 https://github.com/michaelbolanos/SecCheck/tree/main/Apps
-
-
-
-
-Author:   Michael Bolanos
-
-Created:  12/11/20
