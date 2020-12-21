@@ -16,7 +16,6 @@ This program was written to practice Python with some practical application in m
 
 
 ## Wiki
-The Wiki is here:  https://github.com/michaelbolanos/SecCheck/wiki
 
 https://github.com/michaelbolanos/SecCheck/Wiki- Wiki
 [Wiki](https://github.com/michaelbolanos/SecCheck/Wiki)
@@ -25,8 +24,6 @@ https://github.com/michaelbolanos/SecCheck/Wiki- Wiki
 
 ## Just run the apps
 If you just want to run the Apps the programs by themselves are in the Apps directory
-
-https://github.com/michaelbolanos/SecCheck/tree/main/Apps
 
 https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 [SecCheck_Apps](https://github.com/michaelbolanos/SecCheck/tree/main/Apps)
