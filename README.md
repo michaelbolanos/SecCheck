@@ -24,6 +24,10 @@ If you just want to run the Apps the programs by themselves are in the Apps dire
 
 https://github.com/michaelbolanos/SecCheck/tree/main/Apps
 
+http://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
+[offthegridit_apps](http://github.com/michaelbolanos/SecCheck/tree/main/Apps)
+
+
 ## About the author
 
 
