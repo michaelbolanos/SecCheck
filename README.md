@@ -51,8 +51,8 @@ Apps (Releases)
 Normally you will run these apps from the Downloads folder
 
 ## Loop
-If you want to see a fancy version of this project on
-[SecCheck Github Page](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
+To see a fancy version
+[Check out the SecCheck Github Page](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
 
 ## Project level 
 
