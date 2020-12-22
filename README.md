@@ -89,4 +89,4 @@ Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/th
 
 ## Team
 
-[![Michael Bolanos](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/michaelbolanos)  | [nudder](https://github.com/nudder)](https://www.quandl.com/)
+[![Michael Bolanos](https://miro.medium.com/fit/c/1360/1360/1*dhvik-sg5uUcyVNu3NKAEw.jpeg)](https://github.com/michaelbolanos)  | [nudder](https://github.com/nudder)](https://www.quandl.com/)
