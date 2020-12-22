@@ -41,6 +41,8 @@ If you just want to run the Apps the programs by themselves are in the Apps dire
 https://github.com/michaelbolanos/SecCheck/tree/main/Apps - Apps
 [SecCheck_Apps](https://github.com/michaelbolanos/SecCheck/tree/main/Apps)
 
+Normally you will run these apps from the Downloads folder
+
 ## Loop
 If you want to see a fancy version of this project on
 [github.io.mb/SecCheck](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
