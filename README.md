@@ -1,3 +1,7 @@
+  <a href="https://paypal.me/offthegridit">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
