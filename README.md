@@ -86,3 +86,7 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 - Run Windows Bitdefender scan e.g. MpCmdRun.exe -Scan -ScanType 2 - note caused max cpu utilization 12-21-20
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
 - Currently using Github Pages to distribute binary images, consider using releases instead or only.
+
+## Team
+
+[![Michael Bolanos](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/michaelbolanos)  | [nudder](https://github.com/nudder)](https://www.quandl.com/)
