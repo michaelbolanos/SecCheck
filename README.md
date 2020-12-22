@@ -38,8 +38,8 @@ Wiki pages to content your heart
 ## Just run the apps
 If you just want to run the Apps the programs by themselves are in the Apps directory
 
-https://github.com/michaelbolanos/SecCheck/releases - Apps
-[SecCheck_Releases](https://github.com/michaelbolanos/SecCheck/tree/main/Apps)
+Apps (Releases)
+[SecCheck_Releases](https://github.com/michaelbolanos/SecCheck/releases)
 
 Normally you will run these apps from the Downloads folder
 
