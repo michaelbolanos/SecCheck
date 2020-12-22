@@ -87,6 +87,11 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
 - Currently using Github Pages to distribute binary images, consider using releases instead or only.
 
+
+```
+
 ## Team
 
 [![Michael Bolanos](https://miro.medium.com/fit/c/1360/1360/1*dhvik-sg5uUcyVNu3NKAEw.jpeg)](https://github.com/michaelbolanos)  | [nudder](https://github.com/nudder)](https://www.quandl.com/)
+```
+
