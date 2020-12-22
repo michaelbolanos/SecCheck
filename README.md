@@ -81,7 +81,7 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 
 - Add some buttons with additional modules
 - More security checking
-- Bitdefender complaining, find cause (this could be useful)
+- Bitdefender complaining, Unknown Publisher (this could be useful)
 - Better colors, people like a pretty GUI
 - Run Windows Bitdefender scan e.g. MpCmdRun.exe -Scan -ScanType 2 - note caused max cpu utilization 12-21-20
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
