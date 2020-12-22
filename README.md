@@ -1,4 +1,11 @@
- ## Table of contents
+We appreciate your support
+
+<a href="https://paypal.me/offthegridit">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+
+
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Wiki](#wiki)
@@ -80,7 +87,9 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
 - Currently using Github Pages to distribute binary images, consider using releases instead or only.
 
-Thanks for your support  <a href="https://paypal.me/offthegridit">
+We appreciate your support
+
+<a href="https://paypal.me/offthegridit">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 
