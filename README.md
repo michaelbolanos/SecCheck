@@ -52,7 +52,7 @@ Normally you will run these apps from the Downloads folder
 
 ## Loop
 To see a fancy version
-[Check out the SecCheck Github Page](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
+[Check out SecCheck on Github Pages](https://michaelbolanos.github.io/SecCheck/) although, you might already be here
 
 ## Project level 
 
