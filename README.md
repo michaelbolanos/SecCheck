@@ -73,8 +73,6 @@ Many people learn best doing things hands on.  My meager programming skills have
 
 I found some motivation here:  [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 
-I am going through the materials and quizzes and making progress.  I practice code at least 2-4 hours everyday, that also involves watching YouTube (sometimes), reading up on individual topics, trying stuff in my IDE (PyCharm), and Idle sometimes.  
-
 I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I created an EXE for Windows and an app for Mac (need to output for Linux.)
 
 ## To do or not to do
