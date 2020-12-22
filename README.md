@@ -61,7 +61,7 @@ The purpose of this project is to gather some code and make progress in learning
 
 Many people learn best doing things hands on.  My meager programming skills have gotten me to this point.  I have always wanted to write cross platform apps, so this is my meager attempt while I study more Python.  It gives me a way to practice deploying my code to Github and collaborate with others.
 
-Mastering Python has eluded me due to (blah, blah blah,) no excuses, just practice now.  So I'm working on this:
+I'm working on this:
 
 [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 
@@ -73,7 +73,7 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 
 - Add some buttons with additional modules
 - More security checking
-- Why is Bitdefender complaining? (this could be useful)
+- Bitdefender complaining, find cause (this could be useful)
 - Better colors, people like a pretty GUI
 - Run Windows Bitdefender scan e.g. MpCmdRun.exe -Scan -ScanType 2 - note caused max cpu utilization 12-21-20
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
