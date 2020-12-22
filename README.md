@@ -85,3 +85,6 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 Maybe enable CPU throttling https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/command-line-arguments-microsoft-defender-antivirus
 - Currently using Github Pages to distribute binary images, consider using releases instead or only.
 
+## To do security
+- To successfully install a Windows 10 application, the package doesn't just have to be signed but also trusted on the device.  It sign our app to effectively have it installed in a Windows environment.
+
