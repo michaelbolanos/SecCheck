@@ -85,6 +85,6 @@ I made a simple GUI (with PySimpleGUI, and Tkinter), and with Pyinstaller I crea
 - Bitdefender complaining, Unknown Publisher (this could be useful)
 
 - To successfully install a Windows 10 application, the package doesn't just have to be signed but also trusted on the device.  It is essential to sign our app to effectively have it installed in a Windows environment.
-- More info. on security https://github.com/michaelbolanos/SecCheck/wiki/Security
+- More info. on [SecCheck Security](https://github.com/michaelbolanos/SecCheck/wiki/Security)
 - Add security levels for checks
 
