@@ -69,7 +69,7 @@ The purpose of this project is to gather some code and make progress in learning
 
 ## Background
 
-Many people learn best doing things hands on.  My meager programming skills have gotten me to this point.  I have always wanted to write cross platform apps for security. So, this is my meager attempt.  It gives me a way to practice Python, deploying my code, and pushing it to Github to collaborate with others.
+Many people learn best doing things hands on.  My meager programming skills have gotten me to this point.  I have always wanted to write cross platform apps for security. So, this is a meager first attempt.  It gives me a way to practice Python, deploying my code, and pushing it to Github to collaborate with others.
 
 I found some motivation here:  [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 
